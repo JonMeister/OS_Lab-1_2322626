@@ -1,0 +1,12 @@
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/LeapYear.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/Factorial.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/Power.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/EvenOrOdd.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/Fibonacci.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/UpperOrLowerCase.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/LargestOf3.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/TypeCasting.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/OctalDecimalHexadecimal.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/ClassGrades.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCCodes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

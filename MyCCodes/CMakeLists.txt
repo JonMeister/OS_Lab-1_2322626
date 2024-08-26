@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.29)
+project(MyCodesLab1 C)
+
+set(CMAKE_C_STANDARD 23)
+
+add_executable(LeapYear Program_1_1.c)
+add_executable(Factorial Program_1_2.c)
+add_executable(Power Program_1_3.c)
+add_executable(EvenOrOdd Program_1_4.c)
+add_executable(Fibonacci Program_1_5.c)
+add_executable(UpperOrLowerCase Program_1_6_and_1_7.c)
+add_executable(LargestOf3 Program_1_8.c)
+add_executable(TypeCasting Program_1_9.c)
+add_executable(OctalDecimalHexadecimal Program_1_10.c)
+add_executable(ClassGrades Program_2.c)
