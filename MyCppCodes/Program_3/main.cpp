@@ -1,6 +1,14 @@
+/*
+Authors:
+- Jonathan Aristizabal (202322626)
+Email:
+- jonathan.aristizabal@correounivalle.edu.co
+
+Created: 08/25/2024
+Last modified: 08/26/2024
+ */
 #include <iostream>
 #include <vector>
-
 bool isPrime(int number) {
     if (number <= 1)
         return false;

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCppCodes/Program_4
+# Install script for directory: C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/Github/OS_Lab-1_2322626/MyCppCodes/Program_4
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/MyCppCodes/Program_4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jonat/OneDrive/OTRODRIVE/Documents/Universidad/4_SEMESTRE IV_IT/Operating systems/Lab1/Github/OS_Lab-1_2322626/MyCppCodes/Program_4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

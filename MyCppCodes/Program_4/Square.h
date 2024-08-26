@@ -1,6 +1,7 @@
 //
 // Created by jonat on 25/08/2024.
 //
+// Derived class, inherits from Figure and represents squares.
 
 #ifndef SQUARE_H
 #define SQUARE_H

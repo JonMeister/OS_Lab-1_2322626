@@ -1,6 +1,7 @@
 //
 // Created by jonat on 25/08/2024.
 //
+// Derived class, inherits from Figure and represents right triangles.
 
 #ifndef RIGHTTRIANGLE_H
 #define RIGHTTRIANGLE_H

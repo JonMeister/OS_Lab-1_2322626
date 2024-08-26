@@ -1,7 +1,7 @@
 //
 // Created by jonat on 25/08/2024.
 //
-
+// Derived class, inherits from Figure and represents rectangles.
 #ifndef RECTANGLE_H
 #define RECTANGLE_H
 #include "Figure.h"
