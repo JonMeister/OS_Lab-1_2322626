@@ -77,6 +77,7 @@ int main() {
             for (int number : primesFromList) {
                 std::cout << number << "\t";
             }
+		std::cout<<std::endl;
             break;
         }
         case 3: {
@@ -90,6 +91,8 @@ int main() {
             for (int number : primesInRange) {
                 std::cout << number << "\t";
             }
+                std::cout<<std::endl;
+
             break;
         }
         default:
